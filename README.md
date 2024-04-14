@@ -43,7 +43,7 @@ If you had nothing but a charger+USB cable, a wire cutter, and a couple of wire 
  	* [If using an iPhone](#easy-iphone-setup), install the Termius app, download the Siri shortcut, and run the Siri shortcut.
 * Once you have established an SSH connection, paste the following to download **BBPTimer.py** to the Raspberry Pi:
 	```
-	wget https://raw.githubusercontent.com/gweseloh/BBPTimer/main/BBPTimer.py
+	wget https://raw.githubusercontent.com/BBPTimer/BBPTimer/main/BBPTimer.py
  	```
 * Now change the [**BBPTimer.py variables**](#bbptimerpy-variables) to your liking:
 	* Paste the following to edit **BBPTimer.py**:
